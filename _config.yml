@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "en-UK"
+title                    : "RuoHan Yangyang Liu Luo / the brain matrix"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "RuoHan Yangyang Liu Luo"
+description              : &description "Hi! I am RuoHan, a research student currently working in Ben Seymour's lab on Pain and Aversive Learning. "
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,21 +22,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "RuoHan"
+  pronouns         : "she/her"  
+  bio              : "Hi! I am RuoHan, a research student currently working in Ben Seymour's lab on Pain and Aversive Learning. Our lab is based at the Nuffield Department of Clinical Neuroscience at Oxford University. My project looks at the distinctive properties of 'postive pain' or that the pain that is objectively perceived as painful but can be subjectively associated with positiveness or even reward. For instance, exercise related muscle soreness should ,in theory, be unpleasant and distressing. However, it is usual that people perceive it as an endorsement of progress and effectiveness of their previous workout. This is so distinctive to many other types of pathological pain which persist after accidents and operations. Even when the patient is fully recovered from their injuries, the persistent pain can make lifes of patients miserable and depressing. Understading more about the neurophysiology that differentiates both types of pain could potentially help us develop neurofeedback training programs to help chronic pain patients dissociate pain from 'injury, damage and depressive emotions' and thereby aid rehabilitation from this clinical case which drastically reduces quality of life in patients."
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  employer         : "Oxford University"
+  uri              : "https://www.ox.ac.uk/"
+  email            : "ruohan.liu@ox.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
